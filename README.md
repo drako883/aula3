@@ -1,7 +1,7 @@
-# aula3
+# Terceira aula
 
-#AULA3 CSS
+Terceira aula html + Css
 
-#LINK DE ACESSO 
+# Link de acesso
 
 https://drako883.github.io/aula3/
